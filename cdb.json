@@ -39,6 +39,15 @@
             "ext": {}
         },
         {
+            "key": "图图免",
+            "name": "💗图图┃4k影视",
+            "type": 3,
+            "api": "csp_APPTT",
+            "jar": "https://gitee.com/hu-congrong/lxbsc/raw/main/lib/tutu.jar",
+            "playerType": 1,
+            "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+        },
+        {
             "key": "📺 电视直播 | JAR",
             "name": "📺 电视直播 | JAR",
             "type": 3,
