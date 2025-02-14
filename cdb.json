@@ -39,6 +39,20 @@
             "ext": {}
         },
         {
+            "key": "☪天天TT",
+            "name": "💗拾光☪天天",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./lib/xmbjm.jar",
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
             "key": "图图免",
             "name": "💗图图┃4k影视",
             "type": 3,
