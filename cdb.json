@@ -39,6 +39,39 @@
             "ext": {}
         },
         {
+            "key": "🚛可可影视",
+            "name": "🚛可可蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/lzxw.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/可可影视2.json"
+          },
+          {
+            "key": "🚛鸭奈飞",
+            "name": "🚛鸭奈飞蓝光",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/lzxw.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/鸭奈飞.js"
+          },
+          {
+            "key": "🚛XBPQ",
+            "name": "🚛一起看蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/lzxw.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/一起看.json"
+          },
+        {
             "key": "☪天天TT",
             "name": "💗拾光☪天天",
             "type": 3,
